@@ -1,0 +1,9 @@
+aiogram==3.22.0
+pydantic_settings==2.11.0
+asyncpg==0.30.0
+sqlalchemy==2.0.43
+alembic==1.16.5
+pathlib==1.0.1
+pillow==11.3.0
+redis==6.4.0
+uuid==1.30
