@@ -114,7 +114,7 @@ To run this project, follow these steps:
 ```bash
     python app/main.py
 ```
-    For running in dev mode use:
+For running in dev mode use:
 ```bash
     python -m app.main
     # or
